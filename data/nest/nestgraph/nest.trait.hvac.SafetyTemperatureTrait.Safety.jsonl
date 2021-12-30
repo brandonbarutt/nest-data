@@ -1,0 +1,2 @@
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1608875443.349","value":{"state":"SAFETY_TEMP_STATE_HEAT","prior_state":"SAFETY_TEMP_STATE_NONE","safety_temp":{"value":0.0}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1608879357.929","value":{"state":"SAFETY_TEMP_STATE_NONE","prior_state":"SAFETY_TEMP_STATE_HEAT","safety_temp":{"value":0.0}}}

@@ -1,0 +1,9 @@
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1637100195.085824","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":[""],"rssi":89,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1637100832.038094","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":["wKgBig\u003d\u003d"],"rssi":89,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1637100189.9126079","value":{"is_online":false,"mac_address":"zKfBDp3V","ip_addresses":["wKgBig\u003d\u003d"],"rssi":89,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1637100089.8826759","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":["wKgBig\u003d\u003d"],"rssi":89,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1637434285.2671759","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":["wKgBig\u003d\u003d"],"rssi":85,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1637249542.696028","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":[""],"rssi":81,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1637249815.98838","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":["wKgBig\u003d\u003d"],"rssi":81,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1638951942.0502951","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":["wKgBig\u003d\u003d"],"rssi":90,"regulatory_domain":"A2","ssid":""}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1638546565.0133791","value":{"is_online":true,"mac_address":"zKfBDp3V","ip_addresses":["wKgBig\u003d\u003d"],"rssi":84,"regulatory_domain":"A2","ssid":""}}

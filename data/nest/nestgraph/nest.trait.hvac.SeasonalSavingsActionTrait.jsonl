@@ -1,0 +1,14 @@
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1604879447.267514","value":{}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1604879447.4539649","value":{"action":{"event_guid":"","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED"}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1604879449.045495","value":{"action":{"event_guid":"","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED"}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1610572216.627291","value":{"action":{"event_guid":"85609738-a29b-4d85-a137-8906e343fcba","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED"}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1610572215.8834491","value":{"action":{"event_guid":"85609738-a29b-4d85-a137-8906e343fcba","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED"}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1627008759.087584","value":{"action":{"event_guid":"81749f52-7b5d-4935-a471-378cb0e8bc40","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED","hvac_actor":{"method":"HVAC_ACTOR_METHOD_NOBODY","originator_rts_id":""}}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1639189917.5637059","value":{"action":{"event_guid":"8b1621c4-b339-4d83-8268-de57d9e30db9","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED","hvac_actor":{"method":"HVAC_ACTOR_METHOD_NOBODY","originator_rts_id":""}}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1627008758.534857","value":{"action":{"event_guid":"81749f52-7b5d-4935-a471-378cb0e8bc40","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED","hvac_actor":{"method":"HVAC_ACTOR_METHOD_NOBODY","originator_rts_id":""}}}}
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1639189919.21209","value":{"action":{"event_guid":"8b1621c4-b339-4d83-8268-de57d9e30db9","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED","hvac_actor":{"method":"HVAC_ACTOR_METHOD_NOBODY","originator_rts_id":""}}}}
+{"resource":"STRUCTURE_0175AA436FD12FC0","timestamp":"1604879348.5829251","value":{}}
+{"resource":"STRUCTURE_0175AA436FD12FC0","timestamp":"1604879447.4539649","value":{"action":{"event_guid":"","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED"}}}
+{"resource":"STRUCTURE_0175AA436FD12FC0","timestamp":"1627008758.534857","value":{"action":{"event_guid":"81749f52-7b5d-4935-a471-378cb0e8bc40","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED","hvac_actor":{"method":"HVAC_ACTOR_METHOD_NOBODY","originator_rts_id":""}}}}
+{"resource":"STRUCTURE_0175AA436FD12FC0","timestamp":"1610572215.8834491","value":{"action":{"event_guid":"85609738-a29b-4d85-a137-8906e343fcba","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED"}}}
+{"resource":"STRUCTURE_0175AA436FD12FC0","timestamp":"1639189917.5637059","value":{"action":{"event_guid":"8b1621c4-b339-4d83-8268-de57d9e30db9","requested_action":"SEASONAL_SAVINGS_ACTION_UNSPECIFIED","hvac_actor":{"method":"HVAC_ACTOR_METHOD_NOBODY","originator_rts_id":""}}}}

@@ -1,0 +1,3 @@
+id, userId, deviceId, deviceName, clientOs, clientOsVersion, clientAppVersion, clientPlatform, clientPlayServicesVersion, creationTime, reassertionTime, _isPersisted
+88914842, 22306980, 0E944164-0AF8-4161-930A-69437168BE1F, Some(Brandon’s iPhone), iOS, 14.8.1, 5.67.0.6, iPhone13,3, None, Some(1630859452), Some(1640615918)
+65624238, 22306980, C41A9228-E3F0-424C-8A17-96E99245A96A, Some(Brandon James Barutt’s iPhone), iOS, 14.7.1, 5.66.0.6, iPhone11,8, None, Some(1604879358), Some(1630551793)

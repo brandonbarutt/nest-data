@@ -1,0 +1,1 @@
+{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1635277560.57","value":{"eco_mode":"ECO_MODE_INACTIVE","prior_eco_mode":"ECO_MODE_UNSPECIFIED","eco_mode_change_reason":"ECO_MODE_CHANGE_REASON_OCCUPANCY","eco_mode_actor":{"method":"HVAC_ACTOR_METHOD_SCHEDULE_LEARNING","originator_rts_id":"","time_of_action":"2021-07-06T20:48:55Z"}}}
