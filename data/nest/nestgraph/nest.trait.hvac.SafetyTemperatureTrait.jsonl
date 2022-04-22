@@ -1,4 +1,1 @@
-{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1608876017.6767609","value":{"safety_temp_activating_hvac":false,"state":"SAFETY_TEMP_STATE_HEAT"}}
 {"resource":"DEVICE_CCA7C100000328BD","timestamp":"1608879358.2387381","value":{"safety_temp_activating_hvac":false,"state":"SAFETY_TEMP_STATE_NONE"}}
-{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1608875443.729552","value":{"safety_temp_activating_hvac":true,"state":"SAFETY_TEMP_STATE_HEAT"}}
-{"resource":"DEVICE_CCA7C100000328BD","timestamp":"1604879448.146404","value":{"safety_temp_activating_hvac":false,"state":"SAFETY_TEMP_STATE_NONE"}}
